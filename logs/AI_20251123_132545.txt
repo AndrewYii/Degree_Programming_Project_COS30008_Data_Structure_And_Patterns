@@ -1,0 +1,11 @@
+========================================
+AI Storyteller Log - Session: 20251123_132545
+Started: 13:25:45
+========================================
+[13:26:52] [AI] Tension: BALANCED -> INTENSE | Difficulty Score: -0.6
+[13:26:52] [AI] Event Triggered: Cursed Encounter | Condition: Player too strong (HP: 100%, Bitcoin: 100000)
+[13:31:20] [AI] Enemy Adjusted: Index Out of Bounds | HP: 70, DMG: 6 | Multiplier: x1.3
+[13:31:20] [AI] Enemy Adjusted: Index Out of Bounds | HP: 46, DMG: 11 | Multiplier: x1.3
+[13:32:18] [AI] Tension: INTENSE -> BALANCED | Difficulty Score: -0.3
+[13:36:33] [AI] Tension: BALANCED -> INTENSE | Difficulty Score: -0.4
+[13:36:44] [AI] Enemy Adjusted: Null Pointer | HP: 65, DMG: 6 | Multiplier: x1.3

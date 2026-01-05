@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Andrew\Desktop\Degree_Year2_Sem1\EvovledOOP\NeedToHandInOne\ProgrammingProject\try6\ProgrammingProject\</FILEPATH>
+      <FILENAME>RoleSelectionScreen.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'RoleSelectionScreen::RoleSpriteSheet::frames' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>RoleSelectionScreen::RoleSpriteSheet::{ctor}</FUNCTION>
+    <DECORATED>??0RoleSpriteSheet@RoleSelectionScreen@@QEAA@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>RoleSelectionScreen::RoleSpriteSheet::frames</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Andrew\Desktop\Degree_Year2_Sem1\EvovledOOP\NeedToHandInOne\ProgrammingProject\try6\ProgrammingProject\</FILEPATH>
+      <FILENAME>SettingsScreen.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'SettingsScreen::dropdownOpen' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>SettingsScreen::{ctor}</FUNCTION>
+    <DECORATED>??0SettingsScreen@@QEAA@PEAVGame@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>SettingsScreen::dropdownOpen</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

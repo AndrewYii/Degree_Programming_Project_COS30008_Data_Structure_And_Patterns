@@ -1,0 +1,8 @@
+========================================
+AI Storyteller Log - Session: 20251123_125531
+Started: 12:55:31
+========================================
+[12:57:52] [AI] Tension: BALANCED -> INTENSE | Difficulty Score: -0.6
+[12:57:52] [AI] Event Triggered: Cursed Encounter | Condition: Player too strong (HP: 100%, Bitcoin: 100000)
+[13:01:13] [AI] Enemy Adjusted: Bug Monster | HP: 65, DMG: 5 | Multiplier: x1.3
+[13:01:13] [AI] Enemy Adjusted: Null Pointer | HP: 46, DMG: 7 | Multiplier: x1.3

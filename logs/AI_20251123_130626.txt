@@ -1,0 +1,15 @@
+========================================
+AI Storyteller Log - Session: 20251123_130626
+Started: 13:06:26
+========================================
+[13:08:25] [AI] Tension: BALANCED -> INTENSE | Difficulty Score: -0.6
+[13:08:25] [AI] Event Triggered: Cursed Encounter | Condition: Player too strong (HP: 100%, Bitcoin: 100000)
+[13:12:33] [AI] Enemy Adjusted: Index Out of Bounds | HP: 55, DMG: 5 | Multiplier: x1.3
+[13:14:11] [AI] Tension: INTENSE -> BALANCED | Difficulty Score: -0.3
+[13:17:28] [AI] Enemy Adjusted: Null Pointer | HP: 67, DMG: 9 | Multiplier: x1
+[13:18:28] [AI] Enemy Adjusted: Index Out of Bounds | HP: 58, DMG: 9 | Multiplier: x1
+[13:19:12] [AI] Tension: BALANCED -> INTENSE | Difficulty Score: -0.7
+[13:19:14] [AI] Enemy Adjusted: Syntax Error | HP: 78, DMG: 11 | Multiplier: x1.3
+[13:19:45] [AI] Enemy Adjusted: Bug Monster | HP: 71, DMG: 6 | Multiplier: x1.3
+[13:20:06] [AI] Enemy Adjusted: Bug Monster | HP: 54, DMG: 11 | Multiplier: x1.3
+[13:20:22] [AI] Enemy Adjusted: Null Pointer | HP: 101, DMG: 14 | Multiplier: x1.3

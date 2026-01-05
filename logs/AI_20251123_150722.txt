@@ -1,0 +1,27 @@
+========================================
+AI Storyteller Log - Session: 20251123_150722
+Started: 15:07:22
+========================================
+[15:07:37] [AI] Tension: BALANCED -> INTENSE | Difficulty Score: -0.6
+[15:07:37] [AI] Event Triggered: Cursed Encounter | Condition: Player too strong (HP: 100%, Bitcoin: 100000)
+[15:07:53] [AI] Enemy Adjusted: Bug Monster | HP: 81, DMG: 7 | Multiplier: x1.3
+[15:07:57] [AI] Enemy Adjusted: Syntax Error | HP: 66, DMG: 11 | Multiplier: x1.3
+[15:08:00] [AI] Enemy Adjusted: Memory Leak | HP: 50, DMG: 5 | Multiplier: x1.3
+[15:08:04] [AI] Enemy Adjusted: Index Out of Bounds | HP: 59, DMG: 6 | Multiplier: x1.3
+[15:08:04] [AI] Enemy Adjusted: Syntax Error | HP: 85, DMG: 6 | Multiplier: x1.3
+[15:08:13] [AI] Enemy Adjusted: Stack Overflow | HP: 74, DMG: 11 | Multiplier: x1.3
+[15:08:16] [AI] Enemy Adjusted: Null Pointer | HP: 65, DMG: 11 | Multiplier: x1.3
+[15:08:20] [AI] Enemy Adjusted: Syntax Error | HP: 52, DMG: 6 | Multiplier: x1.3
+[15:08:24] [AI] Enemy Adjusted: Null Pointer | HP: 55, DMG: 10 | Multiplier: x1.3
+[15:08:24] [AI] Enemy Adjusted: Stack Overflow | HP: 48, DMG: 7 | Multiplier: x1.3
+[15:08:29] [AI] Enemy Adjusted: Null Pointer | HP: 83, DMG: 7 | Multiplier: x1.3
+[15:08:32] [AI] Enemy Adjusted: Memory Leak | HP: 83, DMG: 11 | Multiplier: x1.3
+[15:08:39] [AI] Enemy Adjusted: Index Out of Bounds | HP: 83, DMG: 14 | Multiplier: x1.3
+[15:08:42] [AI] Enemy Adjusted: Syntax Error | HP: 75, DMG: 7 | Multiplier: x1.3
+[15:08:42] [AI] Enemy Adjusted: Index Out of Bounds | HP: 74, DMG: 6 | Multiplier: x1.3
+[15:08:45] [AI] Enemy Adjusted: Index Out of Bounds | HP: 48, DMG: 5 | Multiplier: x1.3
+[15:08:45] [AI] Enemy Adjusted: Bug Monster | HP: 91, DMG: 10 | Multiplier: x1.3
+[15:08:51] [AI] Enemy Adjusted: Index Out of Bounds | HP: 54, DMG: 5 | Multiplier: x1.3
+[15:08:54] [AI] Enemy Adjusted: Syntax Error | HP: 91, DMG: 11 | Multiplier: x1.3
+[15:08:54] [AI] Enemy Adjusted: Bug Monster | HP: 91, DMG: 11 | Multiplier: x1.3
+[15:09:11] [AI] Enemy Adjusted: Dr. Mark | HP: 233, DMG: 23 | Multiplier: x1.3

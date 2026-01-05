@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ActiveBar.cpp" />
+    <ClCompile Include="AttackCard.cpp" />
+    <ClCompile Include="BackendDev.cpp" />
+    <ClCompile Include="BinarySearchCard.cpp" />
+    <ClCompile Include="BugMonster.cpp" />
+    <ClCompile Include="CacheHitCard.cpp" />
+    <ClCompile Include="Card.cpp" />
+    <ClCompile Include="CardFactory.cpp" />
+    <ClCompile Include="CardHashTable.cpp" />
+    <ClCompile Include="CardIterator.cpp" />
+    <ClCompile Include="CombatLogNode.cpp" />
+    <ClCompile Include="CombatScreen.cpp" />
+    <ClCompile Include="CreditsScreen.cpp" />
+    <ClCompile Include="DataScientist.cpp" />
+    <ClCompile Include="DeathScreen.cpp" />
+    <ClCompile Include="Deck.cpp" />
+    <ClCompile Include="DefenseCard.cpp" />
+    <ClCompile Include="DevOpsEngineer.cpp" />
+    <ClCompile Include="DrMark.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="FrontendDev.cpp" />
+    <ClCompile Include="FullStackDev.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="GameplayScreen.cpp" />
+    <ClCompile Include="GarbageCollectionCard.cpp" />
+    <ClCompile Include="IndexOutOfBoundsBug.cpp" />
+    <ClCompile Include="LoadBalancerCard.cpp" />
+    <ClCompile Include="MainMenuScreen.cpp" />
+    <ClCompile Include="Map.cpp" />
+    <ClCompile Include="MemoryLeakBug.cpp" />
+    <ClCompile Include="NeuralNetworkCard.cpp" />
+    <ClCompile Include="NullPointerBug.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="PointerHashTable.cpp" />
+    <ClCompile Include="PowerCard.cpp" />
+    <ClCompile Include="ProgrammingProject.cpp" />
+    <ClCompile Include="RestScreen.cpp" />
+    <ClCompile Include="RoleSelectionScreen.cpp" />
+    <ClCompile Include="Room.cpp" />
+    <ClCompile Include="Screen.cpp" />
+    <ClCompile Include="SettingsScreen.cpp" />
+    <ClCompile Include="ShopScreen.cpp" />
+    <ClCompile Include="SkillCard.cpp" />
+    <ClCompile Include="StackOverflowBug.cpp" />
+    <ClCompile Include="StoryIntroScreen.cpp" />
+    <ClCompile Include="SyntaxErrorBug.cpp" />
+    <ClCompile Include="TreasureScreen.cpp" />
+    <ClCompile Include="TurnQueue.cpp" />
+    <ClCompile Include="TutorialScreen.cpp" />
+    <ClCompile Include="UndoStack.cpp" />
+    <ClCompile Include="VictoryScreen.cpp" />
+    <ClCompile Include="Logger.cpp" />
+    <ClCompile Include="AIStoryteller.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ActiveBar.h" />
+    <ClInclude Include="AttackCard.h" />
+    <ClInclude Include="BackendDev.h" />
+    <ClInclude Include="BinarySearchCard.h" />
+    <ClInclude Include="BugMonster.h" />
+    <ClInclude Include="CacheHitCard.h" />
+    <ClInclude Include="Card.h" />
+    <ClInclude Include="CardFactory.h" />
+    <ClInclude Include="CardHashTable.h" />
+    <ClInclude Include="CardIterator.h" />
+    <ClInclude Include="CombatLogNode.h" />
+    <ClInclude Include="CombatScreen.h" />
+    <ClInclude Include="CreditsScreen.h" />
+    <ClInclude Include="DataScientist.h" />
+    <ClInclude Include="DeathScreen.h" />
+    <ClInclude Include="Deck.h" />
+    <ClInclude Include="DefenseCard.h" />
+    <ClInclude Include="DevOpsEngineer.h" />
+    <ClInclude Include="DrMark.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Entity.h" />
+    <ClInclude Include="FrontendDev.h" />
+    <ClInclude Include="FullStackDev.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="GameplayScreen.h" />
+    <ClInclude Include="GarbageCollectionCard.h" />
+    <ClInclude Include="IndexOutOfBoundsBug.h" />
+    <ClInclude Include="LoadBalancerCard.h" />
+    <ClInclude Include="MainMenuScreen.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="MemoryLeakBug.h" />
+    <ClInclude Include="NeuralNetworkCard.h" />
+    <ClInclude Include="NullPointerBug.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="PointerHashTable.h" />
+    <ClInclude Include="PowerCard.h" />
+    <ClInclude Include="RestScreen.h" />
+    <ClInclude Include="RoleSelectionScreen.h" />
+    <ClInclude Include="Room.h" />
+    <ClInclude Include="Screen.h" />
+    <ClInclude Include="SettingsScreen.h" />
+    <ClInclude Include="ShopScreen.h" />
+    <ClInclude Include="SkillCard.h" />
+    <ClInclude Include="StackOverflowBug.h" />
+    <ClInclude Include="StoryIntroScreen.h" />
+    <ClInclude Include="SyntaxErrorBug.h" />
+    <ClInclude Include="TreasureScreen.h" />
+    <ClInclude Include="TurnQueue.h" />
+    <ClInclude Include="TutorialScreen.h" />
+    <ClInclude Include="UndoStack.h" />
+    <ClInclude Include="VictoryScreen.h" />
+    <ClInclude Include="Logger.h" />
+    <ClInclude Include="AIStoryteller.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="asset\buff\adapter.png" />
+    <Image Include="asset\buff\factory.png" />
+    <Image Include="asset\buff\iterator.png" />
+    <Image Include="asset\buff\observer.png" />
+    <Image Include="asset\buff\onepunch.png" />
+    <Image Include="asset\buff\singleton.png" />
+    <Image Include="asset\character\BackendDeveloper.png" />
+    <Image Include="asset\character\Datascientist.png" />
+    <Image Include="asset\character\DevOsDeveloper.png" />
+    <Image Include="asset\character\Frontenddeveloper.png" />
+    <Image Include="asset\character\Fullstackdeveloper.png" />
+    <Image Include="asset\enemy\BugMonster.png" />
+    <Image Include="asset\enemy\DrMark.png" />
+    <Image Include="asset\enemy\MemoryLeak.png" />
+    <Image Include="asset\enemy\NullPointer.png" />
+    <Image Include="asset\enemy\StackOverflow.png" />
+    <Image Include="asset\enemy\SyntaxError.png" />
+    <Image Include="asset\icon\deck.png" />
+    <Image Include="asset\icon\dll.png" />
+    <Image Include="asset\icon\hash.png" />
+    <Image Include="asset\icon\none.png" />
+    <Image Include="asset\icon\queue.png" />
+    <Image Include="asset\icon\sll.png" />
+    <Image Include="asset\icon\stack.png" />
+    <Image Include="asset\icon\tree.png" />
+    <Image Include="asset\room\cartridge_blue.png" />
+    <Image Include="asset\room\cartridge_cyan.png" />
+    <Image Include="asset\room\cartridge_gold.png" />
+    <Image Include="asset\room\cartridge_green.png" />
+    <Image Include="asset\room\cartridge_lightblue.png" />
+    <Image Include="asset\room\cartridge_purple.png" />
+    <Image Include="asset\room\cartridge_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="audio\backgroundmusic.mp3" />
+    <Media Include="audio\error.mp3" />
+    <Media Include="audio\typing.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="font\8bit.otf" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{e0a87724-6e2a-4860-ac95-0b3a73680108}</ProjectGuid>
+    <RootNamespace>ProgrammingProject</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalIncludeDirectories>$(SolutionDir)\include</AdditionalIncludeDirectories>
+      <DisableSpecificWarnings>4275;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)\lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-system-d.lib;sfml-window-d.lib;sfml-graphics-d.lib;sfml-audio-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalIncludeDirectories>$(SolutionDir)\include</AdditionalIncludeDirectories>
+      <DisableSpecificWarnings>4275;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)\lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-system.lib;sfml-window.lib;sfml-graphics.lib;sfml-audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,12 @@
+========================================
+AI Storyteller Log - Session: 20251123_141621
+Started: 14:16:21
+========================================
+[14:18:03] [AI] Tension: BALANCED -> INTENSE | Difficulty Score: -0.6
+[14:18:03] [AI] Event Triggered: Cursed Encounter | Condition: Player too strong (HP: 100%, Bitcoin: 100000)
+[14:18:16] [AI] Enemy Adjusted: Syntax Error | HP: 50, DMG: 6 | Multiplier: x1.3
+[14:34:52] [AI] Enemy Adjusted: Memory Leak | HP: 87, DMG: 11 | Multiplier: x1.3
+[14:41:35] [AI] Tension: INTENSE -> BALANCED | Difficulty Score: -0.1
+[14:41:45] [AI] Tension: BALANCED -> RELAXED | Difficulty Score: 0.4
+[14:47:16] [AI] Tension: RELAXED -> BALANCED | Difficulty Score: 0.1
+[14:47:29] [AI] Enemy Adjusted: Null Pointer | HP: 43, DMG: 9 | Multiplier: x1

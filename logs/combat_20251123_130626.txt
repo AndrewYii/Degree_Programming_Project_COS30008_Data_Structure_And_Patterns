@@ -1,0 +1,200 @@
+========================================
+Combat Log - Session: 20251123_130626
+Started: 13:06:26
+========================================
+[13:12:33] 
+=== COMBAT START ===
+Enemy: Index Out of Bounds
+HP: 55 | Damage: 5
+[13:12:33] 
+--- Turn 1 ---
+[13:13:55] [DMG] Player -> Index Out of Bounds: 12
+[13:13:55] [DMG] Stack Strike -> Index Out of Bounds: 12
+[13:13:55] [ENEMY] Index Out of Bounds | Turn Start
+[13:13:55] [ENEMY] Index Out of Bounds | Chaos Multiplier (2)
+[13:13:55] [DMG] Index Out of Bounds -> Player: 10
+[13:13:55] 
+--- Turn 2 ---
+[13:14:02] [DMG] Player -> Index Out of Bounds: 21
+[13:14:02] [DMG] Node Strike -> Index Out of Bounds: 21
+[13:14:02] [ENEMY] Index Out of Bounds | Turn Start
+[13:14:02] [ENEMY] Index Out of Bounds | Chaos Multiplier (1)
+[13:14:02] [DMG] Index Out of Bounds -> Player: 5
+[13:14:02] 
+--- Turn 3 ---
+[13:14:08] [POWER] Sprint Mode gained +4 Strength (Total: 4)
+[13:14:08] [ENEMY] Index Out of Bounds | Turn Start
+[13:14:08] [ENEMY] Index Out of Bounds | Chaos Multiplier (1)
+[13:14:08] [DMG] Index Out of Bounds -> Player: 5
+[13:14:08] 
+--- Turn 4 ---
+[13:14:23] [DMG] Player -> Index Out of Bounds: 21
+[13:14:23] [DMG] Node Strike+ -> Index Out of Bounds: 21
+[13:14:23] [ENEMY] Index Out of Bounds | Turn Start
+[13:14:23] [ENEMY] Index Out of Bounds | Chaos Multiplier (3)
+[13:14:23] [DMG] Index Out of Bounds -> Player: 15
+[13:14:23] 
+--- Turn 5 ---
+[13:14:26] [DMG] Neural Network -> Index Out of Bounds: 1
+[13:14:26] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 45
+Turns: 5
+[13:17:28] 
+=== COMBAT START ===
+Enemy: Null Pointer
+HP: 67 | Damage: 9
+[13:17:28] 
+--- Turn 1 ---
+[13:17:53] [DMG] Player -> Null Pointer: 12
+[13:17:53] [DMG] Stack Strike -> Null Pointer: 12
+[13:17:53] [DMG] Player -> Null Pointer: 19
+[13:17:53] [DMG] Node Strike -> Null Pointer: 19
+[13:17:53] [POWER] Pair Programming gained +3 Strength (Total: 3)
+[13:17:53] [POWER] Pair Programming gained +3 Strength (Total: 3)
+[13:17:53] [POWER] Pair Programming gained +3 Strength (Total: 3)
+[13:17:53] [ENEMY] Null Pointer | Turn Start
+[13:17:53] [ENEMY] Null Pointer | Null Pointer - Turn Skipped
+[13:17:53] [DMG] Null Pointer -> Player: 9
+[13:17:53] 
+--- Turn 2 ---
+[13:17:58] [DMG] Player -> Null Pointer: 19
+[13:17:58] [DMG] Node Strike -> Null Pointer: 19
+[13:17:58] [DMG] Player -> Null Pointer: 14
+[13:17:58] [DMG] Queue Strike -> Null Pointer: 14
+[13:17:58] [DMG] Player -> Null Pointer: 14
+[13:17:58] [DMG] Queue Strike -> Null Pointer: 3
+[13:17:58] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 36
+Turns: 2
+[13:18:28] 
+=== COMBAT START ===
+Enemy: Index Out of Bounds
+HP: 58 | Damage: 9
+[13:18:28] 
+--- Turn 1 ---
+[13:19:11] [DMG] Player -> Index Out of Bounds: 56
+[13:19:11] [DMG] DLL Strike -> Index Out of Bounds: 56
+[13:19:11] [DMG] Neural Network -> Index Out of Bounds: 2
+[13:19:11] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 60
+Turns: 1
+[13:19:14] 
+=== COMBAT START ===
+Enemy: Syntax Error
+HP: 78 | Damage: 11
+[13:19:14] 
+--- Turn 1 ---
+[13:19:22] [DMG] Player -> Syntax Error: 19
+[13:19:22] [DMG] Node Strike -> Syntax Error: 19
+[13:19:22] [ENEMY] Syntax Error | Turn Start
+[13:19:22] [ENEMY] Syntax Error | Syntax Error - Attack Failed
+[13:19:22] 
+--- Turn 2 ---
+[13:19:39] [DMG] Player -> Syntax Error: 27
+[13:19:39] [DMG] Tree Slash -> Syntax Error: 27
+[13:19:39] [DMG] Player -> Syntax Error: 56
+[13:19:39] [DMG] DLL Strike -> Syntax Error: 32
+[13:19:39] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 60
+Turns: 2
+[13:19:45] 
+=== COMBAT START ===
+Enemy: Bug Monster
+HP: 71 | Damage: 6
+[13:19:45] 
+--- Turn 1 ---
+[13:19:50] [DMG] Neural Network -> Bug Monster: 17
+[13:19:50] [DMG] Player -> Bug Monster: 21
+[13:19:50] [DMG] Node Strike -> Bug Monster: 21
+[13:19:50] [ENEMY] Bug Monster | Turn Start
+[13:19:50] [ENEMY] Bug Monster | Mutation Stage (1)
+[13:19:50] [DMG] Bug Monster -> Player: 8
+[13:19:50] 
+--- Turn 2 ---
+[13:19:53] [BLOCK] Player gained 19 block
+[13:19:53] [BLOCK] Try-Catch Block gained 19 block
+[13:19:53] [ENEMY] Bug Monster | Turn Start
+[13:19:53] [ENEMY] Bug Monster | Mutation Stage (2)
+[13:19:53] [DMG] Bug Monster -> Player: 0
+[13:19:53] 
+--- Turn 3 ---
+[13:19:56] [DMG] Player -> Bug Monster: 6
+[13:19:56] [DMG] Stack Strike -> Bug Monster: 6
+[13:19:56] [ENEMY] Bug Monster | Turn Start
+[13:19:56] [ENEMY] Bug Monster | Mutation Stage (3)
+[13:19:56] [DMG] Bug Monster -> Player: 3
+[13:19:56] 
+--- Turn 4 ---
+[13:20:00] [DMG] Load Balancer -> Bug Monster: 18
+[13:20:00] [DMG] Player -> Bug Monster: 6
+[13:20:00] [DMG] Stack Strike -> Bug Monster: 6
+[13:20:00] [ENEMY] Bug Monster | Turn Start
+[13:20:00] [ENEMY] Bug Monster | Replication Triggered (4)
+[13:20:00] [DMG] Bug Monster -> Player: 12
+[13:20:00] 
+--- Turn 5 ---
+[13:20:04] [DMG] Neural Network -> Bug Monster: 3
+[13:20:04] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 57
+Turns: 5
+[13:20:06] 
+=== COMBAT START ===
+Enemy: Bug Monster
+HP: 54 | Damage: 11
+[13:20:06] 
+--- Turn 1 ---
+[13:20:10] [DMG] Player -> Bug Monster: 21
+[13:20:10] [DMG] Node Strike -> Bug Monster: 21
+[13:20:10] [DMG] Player -> Bug Monster: 56
+[13:20:10] [DMG] DLL Strike -> Bug Monster: 33
+[13:20:10] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 57
+Turns: 1
+[13:20:22] 
+=== COMBAT START ===
+Enemy: Null Pointer
+HP: 101 | Damage: 14
+[13:20:22] 
+--- Turn 1 ---
+[13:20:30] [DMG] Player -> Null Pointer: 19
+[13:20:30] [DMG] Node Strike+ -> Null Pointer: 19
+[13:20:30] [ENEMY] Null Pointer | Turn Start
+[13:20:30] [ENEMY] Null Pointer | Null Pointer - Turn Skipped
+[13:20:30] [DMG] Null Pointer -> Player: 14
+[13:20:30] 
+--- Turn 2 ---
+[13:20:35] [DMG] Player -> Null Pointer: 27
+[13:20:35] [DMG] Tree Slash -> Null Pointer: 27
+[13:20:35] [DMG] Neural Network -> Null Pointer: 21
+[13:20:35] [DMG] Player -> Null Pointer: 19
+[13:20:35] [DMG] Node Strike+ -> Null Pointer: 19
+[13:20:35] [ENEMY] Null Pointer | Turn Start
+[13:20:35] [ENEMY] Null Pointer | Null Pointer - Turn Skipped
+[13:20:35] [DMG] Null Pointer -> Player: 14
+[13:20:35] 
+--- Turn 3 ---
+[13:20:41] [BLOCK] Player gained 55 block
+[13:20:41] [BLOCK] Firewall gained 55 block
+[13:20:41] [BLOCK] Player gained 8 block
+[13:20:41] [BLOCK] Code Review gained 8 block
+[13:20:41] [BLOCK] Player gained 8 block
+[13:20:41] [BLOCK] Code Review gained 8 block
+[13:20:41] [DMG] Player -> Null Pointer: 19
+[13:20:41] [DMG] Node Strike+ -> Null Pointer: 15
+[13:20:41] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 29
+Turns: 3

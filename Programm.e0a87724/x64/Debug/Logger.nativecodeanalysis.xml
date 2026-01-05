@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Andrew\Desktop\Degree_Year2_Sem1\EvovledOOP\NeedToHandInOne\ProgrammingProject\try6\ProgrammingProject\</FILEPATH>
+      <FILENAME>Logger.cpp</FILENAME>
+      <LINE>40</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: '_mkdir'.</DESCRIPTION>
+    <FUNCTION>Logger::initialize</FUNCTION>
+    <DECORATED>?initialize@Logger@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>35</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

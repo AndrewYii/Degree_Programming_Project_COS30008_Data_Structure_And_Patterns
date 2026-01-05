@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\asset">
+      <UniqueIdentifier>{9a0b2835-eb97-4aea-b2e7-ca9e6ce888ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\audio">
+      <UniqueIdentifier>{9d5246c0-de8d-4f15-8c12-aa3ac220cf94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\font">
+      <UniqueIdentifier>{43bd8ea0-9aa3-4591-9a09-9ccbf0eeedaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\asset\enemy">
+      <UniqueIdentifier>{b8bdf727-1257-40d0-955a-4b712aaa32cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\asset\icon">
+      <UniqueIdentifier>{814a509a-c06f-450f-bb35-2e3d41d7871b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\asset\room">
+      <UniqueIdentifier>{7df04482-35f5-4364-950d-efeabcff6196}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\asset\character">
+      <UniqueIdentifier>{d964291e-a98b-4201-8fab-5902a89c18f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\asset\buff">
+      <UniqueIdentifier>{828b8cea-9be1-4c8e-8057-fa55eb5f0f33}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ActiveBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AttackCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BackendDev.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearchCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CardFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CardHashTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CardIterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CombatLogNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CombatScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CreditsScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataScientist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeathScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Deck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DefenseCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DevOpsEngineer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrMark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FrontendDev.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FullStackDev.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameplayScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IndexOutOfBoundsBug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryLeakBug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NeuralNetworkCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NullPointerBug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RestScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RoleSelectionScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShopScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkillCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StoryIntroScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TreasureScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TurnQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TutorialScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UndoStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VictoryScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgrammingProject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerHashTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AIStoryteller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BugMonster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CacheHitCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GarbageCollectionCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadBalancerCard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StackOverflowBug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SyntaxErrorBug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ActiveBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AttackCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BackendDev.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Card.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CardFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CardHashTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CardIterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CombatLogNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CombatScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataScientist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DeathScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Deck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DefenseCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DevOpsEngineer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DrMark.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FrontendDev.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FullStackDev.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameplayScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IndexOutOfBoundsBug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryLeakBug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NeuralNetworkCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NullPointerBug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RestScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RoleSelectionScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StoryIntroScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TreasureScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TurnQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TutorialScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UndoStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VictoryScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PointerHashTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AIStoryteller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BugMonster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CacheHitCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GarbageCollectionCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadBalancerCard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StackOverflowBug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SyntaxErrorBug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="asset\enemy\BugMonster.png">
+      <Filter>Resource Files\asset\enemy</Filter>
+    </Image>
+    <Image Include="asset\enemy\DrMark.png">
+      <Filter>Resource Files\asset\enemy</Filter>
+    </Image>
+    <Image Include="asset\enemy\MemoryLeak.png">
+      <Filter>Resource Files\asset\enemy</Filter>
+    </Image>
+    <Image Include="asset\enemy\NullPointer.png">
+      <Filter>Resource Files\asset\enemy</Filter>
+    </Image>
+    <Image Include="asset\enemy\StackOverflow.png">
+      <Filter>Resource Files\asset\enemy</Filter>
+    </Image>
+    <Image Include="asset\enemy\SyntaxError.png">
+      <Filter>Resource Files\asset\enemy</Filter>
+    </Image>
+    <Image Include="asset\icon\deck.png">
+      <Filter>Resource Files\asset\icon</Filter>
+    </Image>
+    <Image Include="asset\icon\dll.png">
+      <Filter>Resource Files\asset\icon</Filter>
+    </Image>
+    <Image Include="asset\icon\none.png">
+      <Filter>Resource Files\asset\icon</Filter>
+    </Image>
+    <Image Include="asset\icon\hash.png">
+      <Filter>Resource Files\asset\icon</Filter>
+    </Image>
+    <Image Include="asset\icon\queue.png">
+      <Filter>Resource Files\asset\icon</Filter>
+    </Image>
+    <Image Include="asset\icon\sll.png">
+      <Filter>Resource Files\asset\icon</Filter>
+    </Image>
+    <Image Include="asset\icon\stack.png">
+      <Filter>Resource Files\asset\icon</Filter>
+    </Image>
+    <Image Include="asset\icon\tree.png">
+      <Filter>Resource Files\asset\icon</Filter>
+    </Image>
+    <Image Include="asset\room\cartridge_blue.png">
+      <Filter>Resource Files\asset\room</Filter>
+    </Image>
+    <Image Include="asset\room\cartridge_cyan.png">
+      <Filter>Resource Files\asset\room</Filter>
+    </Image>
+    <Image Include="asset\room\cartridge_green.png">
+      <Filter>Resource Files\asset\room</Filter>
+    </Image>
+    <Image Include="asset\room\cartridge_gold.png">
+      <Filter>Resource Files\asset\room</Filter>
+    </Image>
+    <Image Include="asset\room\cartridge_lightblue.png">
+      <Filter>Resource Files\asset\room</Filter>
+    </Image>
+    <Image Include="asset\room\cartridge_purple.png">
+      <Filter>Resource Files\asset\room</Filter>
+    </Image>
+    <Image Include="asset\room\cartridge_red.png">
+      <Filter>Resource Files\asset\room</Filter>
+    </Image>
+    <Image Include="asset\character\BackendDeveloper.png">
+      <Filter>Resource Files\asset\character</Filter>
+    </Image>
+    <Image Include="asset\character\DevOsDeveloper.png">
+      <Filter>Resource Files\asset\character</Filter>
+    </Image>
+    <Image Include="asset\character\Datascientist.png">
+      <Filter>Resource Files\asset\character</Filter>
+    </Image>
+    <Image Include="asset\character\Frontenddeveloper.png">
+      <Filter>Resource Files\asset\character</Filter>
+    </Image>
+    <Image Include="asset\character\Fullstackdeveloper.png">
+      <Filter>Resource Files\asset\character</Filter>
+    </Image>
+    <Image Include="asset\buff\adapter.png">
+      <Filter>Resource Files\asset\buff</Filter>
+    </Image>
+    <Image Include="asset\buff\factory.png">
+      <Filter>Resource Files\asset\buff</Filter>
+    </Image>
+    <Image Include="asset\buff\iterator.png">
+      <Filter>Resource Files\asset\buff</Filter>
+    </Image>
+    <Image Include="asset\buff\observer.png">
+      <Filter>Resource Files\asset\buff</Filter>
+    </Image>
+    <Image Include="asset\buff\onepunch.png">
+      <Filter>Resource Files\asset\buff</Filter>
+    </Image>
+    <Image Include="asset\buff\singleton.png">
+      <Filter>Resource Files\asset\buff</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="audio\backgroundmusic.mp3">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="audio\error.mp3">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+    <Media Include="audio\typing.mp3">
+      <Filter>Resource Files\audio</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="font\8bit.otf">
+      <Filter>Resource Files\font</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

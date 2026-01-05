@@ -1,0 +1,147 @@
+========================================
+Combat Log - Session: 20251123_141621
+Started: 14:16:21
+========================================
+[14:18:16] 
+=== COMBAT START ===
+Enemy: Syntax Error
+HP: 50 | Damage: 6
+[14:18:16] 
+--- Turn 1 ---
+[14:18:31] [DMG] Player -> Syntax Error: 19
+[14:18:31] [DMG] Tree Slash -> Syntax Error: 19
+[14:18:31] [ENEMY] Syntax Error | Turn Start
+[14:18:31] [ENEMY] Syntax Error | Syntax Error - Attack Failed
+[14:18:31] 
+--- Turn 2 ---
+[14:19:20] [BLOCK] Player gained 8 block
+[14:19:20] [BLOCK] Code Review gained 8 block
+[14:19:20] [ENEMY] Syntax Error | Turn Start
+[14:19:20] [ENEMY] Syntax Error | Syntax Error - Attack Failed
+[14:19:20] 
+--- Turn 3 ---
+[14:19:36] [POWER] Pair Programming gained +3 Strength (Total: 6)
+[14:19:36] [ENEMY] Syntax Error | Turn Start
+[14:19:36] [ENEMY] Syntax Error | Syntax Error - Attack Failed
+[14:19:36] 
+--- Turn 4 ---
+[14:19:40] [DMG] Player -> Syntax Error: 21
+[14:19:40] [DMG] Node Strike -> Syntax Error: 21
+[14:19:40] [ENEMY] Syntax Error | Turn Start
+[14:19:40] [ENEMY] Syntax Error | Syntax Error - Attack Failed
+[14:19:40] 
+--- Turn 5 ---
+[14:28:18] [BLOCK] Player gained 5 block
+[14:28:18] [BLOCK] Defend gained 5 block
+[14:28:18] [ENEMY] Syntax Error | Turn Start
+[14:28:18] [ENEMY] Syntax Error | Syntax Error - Attack Failed
+[14:28:18] 
+--- Turn 6 ---
+[14:28:31] [POWER] Clean Code gained +2 Strength (Total: 5)
+[14:28:31] [POWER] Clean Code gained +2 Dexterity (Total: 2)
+[14:28:31] [ENEMY] Syntax Error | Turn Start
+[14:28:31] [ENEMY] Syntax Error | Syntax Error - Attack Failed
+[14:28:31] 
+--- Turn 7 ---
+[14:28:35] [BLOCK] Player gained 55 block
+[14:28:35] [BLOCK] Firewall gained 57 block
+[14:28:35] [ENEMY] Syntax Error | Turn Start
+[14:28:35] [ENEMY] Syntax Error | Syntax Error - Attack Failed
+[14:28:35] 
+--- Turn 8 ---
+[14:34:50] [POWER] Clean Code gained +2 Strength (Total: 5)
+[14:34:50] [POWER] Clean Code gained +2 Dexterity (Total: 4)
+[14:34:50] [DMG] Neural Network -> Syntax Error: 10
+[14:34:50] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 80
+Turns: 8
+[14:34:52] 
+=== COMBAT START ===
+Enemy: Memory Leak
+HP: 87 | Damage: 11
+[14:34:52] 
+--- Turn 1 ---
+[14:40:23] [BLOCK] Player gained 55 block
+[14:40:23] [BLOCK] Firewall gained 59 block
+[14:40:23] [ENEMY] Memory Leak | Turn Start
+[14:40:23] [ENEMY] Memory Leak | Damage Escalation (2)
+[14:40:23] [DMG] Memory Leak -> Player: 0
+[14:40:23] 
+--- Turn 2 ---
+[14:40:30] [BLOCK] Player gained 55 block
+[14:40:30] [BLOCK] Firewall gained 59 block
+[14:40:30] [ENEMY] Memory Leak | Turn Start
+[14:40:30] [ENEMY] Memory Leak | Damage Escalation (4)
+[14:40:30] [DMG] Memory Leak -> Player: 0
+[14:40:30] 
+--- Turn 3 ---
+[14:40:36] [DMG] Player -> Memory Leak: 18
+[14:40:36] [DMG] Queue Strike -> Memory Leak: 18
+[14:40:36] [ENEMY] Memory Leak | Turn Start
+[14:40:36] [ENEMY] Memory Leak | Damage Escalation (6)
+[14:40:36] [DMG] Memory Leak -> Player: 0
+[14:40:36] 
+--- Turn 4 ---
+[14:41:24] [BLOCK] Player gained 5 block
+[14:41:24] [BLOCK] Defend gained 9 block
+[14:41:24] [ENEMY] Memory Leak | Turn Start
+[14:41:24] [ENEMY] Memory Leak | Damage Escalation (8)
+[14:41:24] [DMG] Memory Leak -> Player: 0
+[14:41:24] 
+--- Turn 5 ---
+[14:41:25] [POWER] Pair Programming gained +3 Strength (Total: 6)
+[14:41:25] [ENEMY] Memory Leak | Turn Start
+[14:41:25] [ENEMY] Memory Leak | Damage Escalation (10)
+[14:41:25] [DMG] Memory Leak -> Player: 0
+[14:41:25] 
+--- Turn 6 ---
+[14:41:27] [ENEMY] Memory Leak | Turn Start
+[14:41:27] [ENEMY] Memory Leak | Damage Escalation (12)
+[14:41:27] [DMG] Memory Leak -> Player: 0
+[14:41:27] 
+--- Turn 7 ---
+[14:41:32] [DMG] Player -> Memory Leak: 12
+[14:41:32] [DMG] Stack Strike -> Memory Leak: 12
+[14:41:32] [POWER] Clean Code gained +2 Strength (Total: 5)
+[14:41:32] [POWER] Clean Code gained +2 Dexterity (Total: 6)
+[14:41:32] [ENEMY] Memory Leak | Turn Start
+[14:41:32] [ENEMY] Memory Leak | Damage Escalation (14)
+[14:41:32] [DMG] Memory Leak -> Player: 6
+[14:41:32] 
+--- Turn 8 ---
+[14:41:34] [ENEMY] Memory Leak | Turn Start
+[14:41:34] [ENEMY] Memory Leak | Damage Escalation (16)
+[14:41:34] [DMG] Memory Leak -> Player: 27
+[14:41:34] 
+--- Turn 9 ---
+[14:41:35] [BLOCK] Player gained 5 block
+[14:41:35] [BLOCK] Defend gained 11 block
+[14:41:35] [ENEMY] Memory Leak | Turn Start
+[14:41:35] [ENEMY] Memory Leak | Damage Escalation (18)
+[14:41:35] [DMG] Memory Leak -> Player: 18
+[14:41:35] 
+--- Turn 10 ---
+[14:41:40] [DMG] Player -> Memory Leak: 50
+[14:41:40] [DMG] DLL Strike -> Memory Leak: 50
+[14:41:40] [BLOCK] Player gained 8 block
+[14:41:40] [BLOCK] Code Review gained 14 block
+[14:41:40] [ENEMY] Memory Leak | Turn Start
+[14:41:40] [ENEMY] Memory Leak | Damage Escalation (20)
+[14:41:40] [DMG] Memory Leak -> Player: 17
+[14:41:40] 
+--- Turn 11 ---
+[14:41:42] [DMG] Player -> Memory Leak: 21
+[14:41:42] [DMG] Node Strike -> Memory Leak: 7
+[14:41:42] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 12
+Turns: 11
+[14:47:29] 
+=== COMBAT START ===
+Enemy: Null Pointer
+HP: 43 | Damage: 9
+[14:47:29] 
+--- Turn 1 ---

@@ -1,0 +1,114 @@
+========================================
+Combat Log - Session: 20251123_132545
+Started: 13:25:45
+========================================
+[13:31:20] 
+=== COMBAT START ===
+Enemy: Index Out of Bounds
+HP: 70 | Damage: 6
+[13:31:20] 
+--- Turn 1 ---
+[13:32:14] [DMG] Player -> Index Out of Bounds: 3
+[13:32:14] [DMG] Hash Attack -> Index Out of Bounds: 3
+[13:32:14] [DMG] Load Balancer -> Index Out of Bounds: 18
+[13:32:14] [ENEMY] Index Out of Bounds | Turn Start
+[13:32:14] [ENEMY] Index Out of Bounds | Chaos Multiplier (1)
+[13:32:14] [DMG] Index Out of Bounds -> Player: 6
+[13:32:14] [ENEMY] Index Out of Bounds | Turn Start
+[13:32:14] [ENEMY] Index Out of Bounds | Chaos Multiplier (2)
+[13:32:14] [DMG] Index Out of Bounds -> Player: 22
+[13:32:14] 
+--- Turn 2 ---
+[13:32:52] [DMG] Player -> Index Out of Bounds: 12
+[13:32:52] [DMG] Stack Strike+ -> Index Out of Bounds: 12
+[13:32:52] [DMG] Neural Network -> Index Out of Bounds: 13
+[13:32:52] [DMG] Player -> Index Out of Bounds: 21
+[13:32:52] [DMG] Node Strike -> Index Out of Bounds: 21
+[13:32:52] [ENEMY] Index Out of Bounds | Turn Start
+[13:32:52] [ENEMY] Index Out of Bounds | Chaos Multiplier (2)
+[13:32:52] [DMG] Index Out of Bounds -> Player: 12
+[13:32:52] [ENEMY] Index Out of Bounds | Turn Start
+[13:32:52] [ENEMY] Index Out of Bounds | Chaos Multiplier (3)
+[13:32:52] [DMG] Index Out of Bounds -> Player: 33
+[13:32:52] 
+--- Turn 3 ---
+[13:33:01] [POWER] Agile Development gained +3 Dexterity (Total: 3)
+[13:33:01] [BLOCK] Player gained 55 block
+[13:33:01] [BLOCK] Firewall gained 58 block
+[13:33:01] [ENEMY] Index Out of Bounds | Turn Start
+[13:33:01] [ENEMY] Index Out of Bounds | Chaos Multiplier (3)
+[13:33:01] [DMG] Index Out of Bounds -> Player: 0
+[13:33:01] [ENEMY] Index Out of Bounds | Turn Start
+[13:33:01] [ENEMY] Index Out of Bounds | Chaos Multiplier (2)
+[13:33:01] [DMG] Index Out of Bounds -> Player: 0
+[13:33:01] 
+--- Turn 4 ---
+[13:33:26] [DMG] Player -> Index Out of Bounds: 50
+[13:33:26] [DMG] DLL Strike -> Index Out of Bounds: 3
+[13:33:26] [ENEMY] Index Out of Bounds | Turn Start
+[13:33:26] [ENEMY] Index Out of Bounds | Chaos Multiplier (1)
+[13:33:26] [DMG] Index Out of Bounds -> Player: 0
+[13:33:26] 
+--- Turn 5 ---
+[13:33:41] [BLOCK] Player gained 5 block
+[13:33:41] [BLOCK] Defend gained 8 block
+[13:33:41] [DMG] Neural Network -> Index Out of Bounds: 15
+[13:33:41] [POWER] Agile Development gained +3 Dexterity (Total: 6)
+[13:33:41] [ENEMY] Index Out of Bounds | Turn Start
+[13:33:41] [ENEMY] Index Out of Bounds | Chaos Multiplier (1)
+[13:33:41] [DMG] Index Out of Bounds -> Player: 0
+[13:33:41] 
+--- Turn 6 ---
+[13:33:57] [DMG] Player -> Index Out of Bounds: 21
+[13:33:57] [DMG] Node Strike -> Index Out of Bounds: 21
+[13:33:57] [BLOCK] Player gained 19 block
+[13:33:57] [BLOCK] Try-Catch Block gained 25 block
+[13:33:57] [ENEMY] Index Out of Bounds | Turn Start
+[13:33:57] [ENEMY] Index Out of Bounds | Chaos Multiplier (2)
+[13:33:57] [DMG] Index Out of Bounds -> Player: 0
+[13:33:57] 
+--- Turn 7 ---
+[13:34:02] [DMG] Player -> Index Out of Bounds: 18
+[13:34:02] [DMG] Queue Strike -> Index Out of Bounds: 10
+[13:34:02] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 7
+Turns: 7
+[13:36:44] 
+=== COMBAT START ===
+Enemy: Null Pointer
+HP: 65 | Damage: 6
+[13:36:44] 
+--- Turn 1 ---
+[13:37:00] [POWER] Agile Development gained +3 Dexterity (Total: 9)
+[13:37:00] [BLOCK] Player gained 5 block
+[13:37:00] [BLOCK] Defend gained 14 block
+[13:37:00] [BLOCK] Player gained 8 block
+[13:37:00] [BLOCK] Code Review gained 17 block
+[13:37:00] [BLOCK] Player gained 5 block
+[13:37:00] [BLOCK] Defend gained 14 block
+[13:37:00] [ENEMY] Null Pointer | Turn Start
+[13:37:00] [ENEMY] Null Pointer | Null Pointer - Turn Skipped
+[13:37:00] [DMG] Null Pointer -> Player: 0
+[13:37:00] 
+--- Turn 2 ---
+[13:37:12] [DMG] Player -> Null Pointer: 12
+[13:37:12] [DMG] Stack Strike+ -> Null Pointer: 12
+[13:37:12] [BLOCK] Player gained 5 block
+[13:37:12] [BLOCK] Defend gained 14 block
+[13:37:12] [DMG] Neural Network -> Null Pointer: 17
+[13:37:12] [DMG] Player -> Null Pointer: 3
+[13:37:12] [DMG] Hash Attack -> Null Pointer: 3
+[13:37:12] [ENEMY] Null Pointer | Turn Start
+[13:37:12] [ENEMY] Null Pointer | Null Pointer - Turn Skipped
+[13:37:12] [DMG] Null Pointer -> Player: 0
+[13:37:12] 
+--- Turn 3 ---
+[13:37:16] [DMG] Player -> Null Pointer: 56
+[13:37:16] [DMG] DLL Strike -> Null Pointer: 33
+[13:37:16] 
+=== COMBAT END ===
+Result: VICTORY
+Player HP: 79
+Turns: 3
